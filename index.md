@@ -1,5 +1,7 @@
 # CV
 
+![Martin Lillepuu](https://github.com/martinl/martinl.github.io/blob/master/martinl.png)
+
 ## Isikuandmed
 Martin Lillepuu<br>
 17.09.1978<br>
