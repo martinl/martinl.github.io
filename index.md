@@ -1,6 +1,6 @@
 # CV
 
-![Martin Lillepuu](https://github.com/martinl/martinl.github.io/blob/master/martinl.png)
+![Martin Lillepuu](martinl.png)
 
 ## Isikuandmed
 Martin Lillepuu<br>
