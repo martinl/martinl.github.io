@@ -1,7 +1,5 @@
 # CV
 
-![Martin Lillepuu](martinl.png)
-
 ## Isikuandmed
 Martin Lillepuu<br>
 17.09.1978<br>
