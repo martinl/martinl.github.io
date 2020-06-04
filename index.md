@@ -3,7 +3,7 @@
 ## Isikuandmed
 Martin Lillepuu<br>
 17.09.1978<br>
-E-post martin@lillepuu.com
+martin@lillepuu.com
 
 ## Haridus
 ### Erialane haridus
