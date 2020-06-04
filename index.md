@@ -9,7 +9,7 @@ E-post martin@lillepuu.com
 ### Erialane haridus
 #### 2007-...
 EEK Mainor<br>
-eriala - "Personalijuhtimine"
+eriala - "IT juhtimine"
 #### 1999-2003
 Tallinna Tehnikaülikool<br>
 eriala - "Võrgutarkvara" (lõpetamata)
