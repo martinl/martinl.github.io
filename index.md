@@ -44,11 +44,11 @@ IT Koolitus, Implementing and Supporting Windows NT Server 4.0
 
 ## Eelnevad töökohad
 
-#### 2015-...
+### 2015-...
 süsteemiadministraator
 
-#### 2006-2015
-Teede Tehnokeskus AS, IT Projektijuht
+### 2006-2015
+#### Teede Tehnokeskus AS, IT Projektijuht
 ##### Tegevusvaldkonnad
 Ettevõtte IT arendamise ja halduse organiseerimine ning toimimise tagamine<br>
 Tarkvaraarendus, prototüüpimine ja kaardistamine 
@@ -71,8 +71,8 @@ Tarkvaraarendus, prototüüpimine ja kaardistamine
 * Apple
 * Android
 
-#### 2002-...
-MLP Dataconsult OÜ, konsultant<br>
+### 2002-...
+#### MLP Dataconsult OÜ, konsultant<br>
 ##### Tegevusvaldkonnad
 Konsultatsioonid
 * Riistvara
@@ -90,11 +90,11 @@ Tarkvaraarendus
 * Java/Android
 * SQL (MySQL, PostgreSQL, MSSQL)
 
-#### 2000-2005
-Freelance konsultant (füüsilisest isikust ettevõtja)
+### 2000-2005
+#### Freelance konsultant (füüsilisest isikust ettevõtja)
 
-#### 1998-2000
-Spin TEK, süsteemiadministraator<br>
+### 1998-2000
+#### Spin TEK, süsteemiadministraator
 Töökohustused: firma sisemiste ja suurklientide arvutivõrkude administreerimine.<br> 
 Märksõnad
 * Linux
@@ -102,20 +102,20 @@ Märksõnad
 * Windows 95/98
 * Internet (ISP)
 
-#### 1997-1998
-Gensi Koolitus, süsteemiadministraator<br>
+### 1997-1998
+#### Gensi Koolitus, süsteemiadministraator
 Töökohustused:<br>
 * Ettevõtte töökohaarvutite ning arvutiklassi hooldamine
 * NT serveri, Exchange Serveri administreerimine
 * veebiserveri haldamine
 
-#### 1995-1997
-IC Systems, tehniline konsultant<br>
+### 1995-1997
+#### IC Systems, tehniline konsultant
 Tööülesanded hõlmasid Progressi andmebaaside administreerimist, majandustarkvara ning firmas loodud ning arendatavate infosüsteemide tehnilist hooldust ning klientidele installeerimist. Hiljem tuli tegemist teha ka Windows NT serveri, Exchange Serveri ning Windows 95 töökohaarvutite administreerimise ning töökohtade ja serverite riistvara hooldusega.
 
-### Tarkvaraarendus
-#### 2013
-##### Teeilmajaamade veebi prototüüp
+## Tarkvaraarendus
+### 2013
+#### Teeilmajaamade veebi prototüüp
 Realiseerimiseks kasutatud tarkvara:
 * PHP
 * MySQL
@@ -124,15 +124,11 @@ Realiseerimiseks kasutatud tarkvara:
 * OpenLayers
 * OpenStreetMap
 
-##### Teekatte defekteerimise süsteem
-Süsteem koosneb kolmest osast:
-###### RoadRecorder
-video ja tee asukohaandmete salvestus
-###### RoadAnalyzer
-defektide klassifitseerimine videolt<br>
-fotode genereerimine videost
-###### RoadViewer
-lõppkasutaja tarkvara tulemuste kuvamiseks koos geoinfo ja fotodega<br>
+#### Teekatte defekteerimise süsteem
+* RoadRecorder - video ja tee asukohaandmete salvestus
+* RoadAnalyzer - defektide klassifitseerimine videolt, fotode genereerimine videost
+* RoadViewer - lõppkasutaja tarkvara tulemuste kuvamiseks koos geoinfo ja fotodega
+
 Realiseerimiseks kasutatud tarkvara ja tehnoloogiad:
 * C# (.NET)
 * DirectX
@@ -142,7 +138,6 @@ Realiseerimiseks kasutatud tarkvara ja tehnoloogiad:
 * GPS
 
 #### Teede haardeteguri mõõtmise süsteem
-Süsteem koosneb kahest osast:
 * Mobiilirakendus + riistvaraline mõõteseade
 * Veebiliides 
 
@@ -156,27 +151,27 @@ Realiseerimiseks kasutatud tehnoloogiad:
 * OpenLayers
 * OpenStreetMap
 
-#### 2012
-##### Teede külmumissügavuse andurite veebiliides
+### 2012
+#### Teede külmumissügavuse andurite veebiliides
 Realiseerimiseks kasutatud tarkvara:
 * PHP
 * Javascript
 * Google Maps
 
-#### 2010
-##### OpenVPN ID-kaardi autentimise integratsioon
+### 2010
+#### OpenVPN ID-kaardi autentimise integratsioon
 Realiseerimiseks kasutatud tarkvara:
 * Perl
 * Bash
 * OpenSSL
 * OpenVPN
 
-#### 2009
-##### Liiklusloenduse infosüsteemi süsteemianalüüs
+### 2009
+#### Liiklusloenduse infosüsteemi süsteemianalüüs
 * Andmemudeli disain
 * Andmeallikate integratsiooni disain
-#### 2007
-##### Teede Tehnokeskus AS - Ärianalüüs
+### 2007
+#### Teede Tehnokeskus AS - Ärianalüüs
 Realiseerimiseks kasutatud tarkvara:
 * PHP
 * SQLBase
@@ -184,58 +179,58 @@ Realiseerimiseks kasutatud tarkvara:
 * Excel
 * Access
 
-#### 2005
-##### Teede Tehnokeskus AS - Sildade register
+### 2005
+#### Teede Tehnokeskus AS - Sildade register
 Realiseerimiseks kasutatud tarkvara:
 * PHP
 * MySQL
 
-#### 2002
-##### Rahvusraamatukogu kaadriarvestus (uus versioon)
+### 2002
+#### Rahvusraamatukogu kaadriarvestus (v2)
 Realiseerimiseks kasutatud tarkvara:
 * PHP
 * MySQL
-###### TV Kavad (offline)
+#### TV Kavad (offline)
 Realiseerimiseks kasutatud tarkvara:
 * PHP
-*MySQL
+* MySQL
 
-#### 2001
-##### Rahvusraamatukogu kaadriarvestuse programm
+### 2001
+#### Rahvusraamatukogu kaadriarvestus
 Realiseerimiseks kasutatud tarkvara:
 * Zope
 * MySQL
-##### Hinnavaatlus
+#### Hinnavaatlus
 kujunduse sidumine koodiga, andmemudel, veebipõhine haldusmoodul
 Realiseerimiseks kasutatud tarkvara:
-PHP
-Javascript
-MySQL
+* PHP
+* Javascript
+* MySQL
 
-#### 2000
-##### Chat server+klient (veebipõhine)
+### 2000
+#### Chat server+klient (veebipõhine)
 Realiseerimiseks kasutatud tarkvara:
 * Java (JDK 1.2)
 * Tomcat 3.1
 
-#### 1999
-##### SpinTEK intranet
+### 1999
+#### SpinTEK intranet
 Realiseerimiseks kasutatud tarkvara:
 * PHP
 * MySQL
 * Apache
 
-### Muud oskused
+## Muud oskused
 * B-kategooria autojuhiluba
 
-### Keeleoskus
+## Keeleoskus
 * inglise keel - väga hea
 * soome keel - hea
 * vene keel - algtase
 * hispaania keel - algtase (A1)
 * itaalia keel - algtase (A1)
 
-### Huvialad
+## Huvialad
 * reisimine
 * ujumine
 * fotograafia
