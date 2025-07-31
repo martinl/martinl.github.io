@@ -7,9 +7,9 @@ martin@lillepuu.com
 
 ## Haridus
 ### Erialane haridus
-#### 2007-...
+#### 2007-2018
 EEK Mainor<br>
-eriala - "IT juhtimine"
+eriala - "Teenindusjuhtimine" (lõpetamata)
 #### 1999-2003
 Tallinna Tehnikaülikool<br>
 eriala - "Võrgutarkvara" (lõpetamata)
@@ -24,6 +24,16 @@ Tallinna 60. Keskkool
 Tallinna 29. 8-kl kool
 
 ### Täiendkoolitus
+#### 2020
+Azure Fundamentals<br>
+Palo Alto Networks Certified Network Security Engineer (PCNSE)
+#### 2018
+Hunt the Hacker, Clarified Security
+#### 2017
+HOHE FU, Clarified Security
+#### 2014
+LOGSEC, Clarified Security
+HOHE, Clarified Security
 #### 2011
 MCTS: Windows 7, Configuration<br>
 MCTS: Windows Server 2008 Network Infrastructure, Configuration
@@ -168,6 +178,7 @@ Realiseerimiseks kasutatud tarkvara:
 #### Liiklusloenduse infosüsteemi süsteemianalüüs
 * Andmemudeli disain
 * Andmeallikate integratsiooni disain
+
 ### 2007
 #### Teede Tehnokeskus AS - Ärianalüüs
 Realiseerimiseks kasutatud tarkvara:
@@ -188,6 +199,7 @@ Realiseerimiseks kasutatud tarkvara:
 Realiseerimiseks kasutatud tarkvara:
 * PHP
 * MySQL
+
 #### TV Kavad (offline)
 Realiseerimiseks kasutatud tarkvara:
 * PHP
@@ -198,6 +210,7 @@ Realiseerimiseks kasutatud tarkvara:
 Realiseerimiseks kasutatud tarkvara:
 * Zope
 * MySQL
+
 #### Hinnavaatlus
 kujunduse sidumine koodiga, andmemudel, veebipõhine haldusmoodul
 Realiseerimiseks kasutatud tarkvara:
