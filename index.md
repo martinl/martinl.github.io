@@ -7,7 +7,7 @@ martin@lillepuu.com
 
 ## Haridus
 ### Erialane haridus
-#### 2026-2027
+#### 2026-2027 (eeldatav)
 Tartu Ülikool<br>
 Pilvepõhiste rakenduste disain ja DevOps (mikrokraad)
 #### 2007-2018
@@ -55,8 +55,23 @@ IT Koolitus, Implementing and Supporting Windows NT Server 4.0
 
 ## Eelnevad töökohad
 
-### 2015-...
+### 2026-...
+#### MLP Dataconsult OÜ
+Devops insener
+##### Tegevusvaldkonnad
+Rakenduste CI/CD arendamine arendamine ja haldamine (Proxmox, Gitea, Kubernetes, Terraform, Terragrunt, Hashicorp Vault, Loki, Grafana)
+
+### 2025-2026
+#### AS LHV Pank
+DevOps insener
+##### Tegevusvaldkonnad
+Rakenduste CI/CD arendamine ja haldamine (AWS, S3, Gitlab, Kubernetes, Terraform, Terragrunt, Hashicorp Vault, Ansible, Loki, Grafana)
+
+### 2015-2025
+#### AS LHV Pank
 süsteemiadministraator
+##### Tegevusvaldkonnad
+Tulemüüride ja võrguseadmete haldamine, Linuxi ja Windowsi serverite haldamine. Väliste süsteemide autentimisteenuste (SAML/OIDC) seadistamine ja haldamine. Võrguseadmete konfiguratsioonihaldus (Ansible, Terraform, Gitlab). Võrgutiimi hallatavate süsteemide monitooringu ja seire haldus (Zabbix, SpectX, Gravwell).
 
 ### 2006-2015
 #### Teede Tehnokeskus AS, IT Projektijuht
