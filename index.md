@@ -65,7 +65,8 @@ Rakenduste CI/CD arendamine arendamine ja haldamine (Proxmox, Gitea, Kubernetes,
 #### AS LHV Pank
 DevOps insener
 ##### Tegevusvaldkonnad
-Rakenduste CI/CD arendamine ja haldamine (AWS, S3, Gitlab, Kubernetes, Terraform, Terragrunt, Hashicorp Vault, Ansible, Loki, Grafana)
+Rakenduste CI/CD arendamine ja haldamine (AWS, S3, Gitlab, Kubernetes, Terraform, Terragrunt, Hashicorp Vault, Ansible, Loki, Grafana).
+Andmebaasidest andmete andmeaita laadimise muudatuste toetamine (MSSQL, DWH)
 
 ### 2015-2025
 #### AS LHV Pank
