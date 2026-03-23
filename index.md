@@ -7,6 +7,9 @@ martin@lillepuu.com
 
 ## Haridus
 ### Erialane haridus
+#### 2026-2027
+Tartu Ülikool<br>
+Pilvepõhiste rakenduste disain ja DevOps (mikrokraad)
 #### 2007-2018
 EEK Mainor<br>
 eriala - "Teenindusjuhtimine" (lõpetamata)
