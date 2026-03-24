@@ -27,6 +27,10 @@ Tallinna 60. Keskkool
 Tallinna 29. 8-kl kool
 
 ### Täiendkoolitus
+#### 2025
+Kubernetes Essentials (Entigo)<br>
+DevOps automation with Kubernetes (Entigo)
+
 #### 2020
 Azure Fundamentals<br>
 Palo Alto Networks Certified Network Security Engineer (PCNSE)
