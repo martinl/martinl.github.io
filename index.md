@@ -83,8 +83,21 @@ Infrastruktuuri haldus
 #### AS LHV Pank
 DevOps insener
 ##### Tegevusvaldkonnad
-* Rakenduste CI/CD arendamine ja haldamine (AWS, S3, Gitlab, Kubernetes, Terraform, Terragrunt, Hashicorp Vault, Ansible, Loki, Grafana)
-* Andmebaasidest andmete andmeaita laadimise muudatuste toetamine (MSSQL, DWH)
+Rakenduste CI/CD arendamine ja haldamine
+* AWS
+* S3
+* Gitlab
+* Terraform
+* Terragrunt
+* Kubernetes
+* Hashicorp Vault
+* Ansible
+* Loki
+* Grafana
+
+Andmebaasidest andmete andmeaita laadimise muudatuste toetamine
+* MSSQL
+* DWH
 
 ### 2014-2025
 #### AS LHV Pank
