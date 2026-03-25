@@ -12,7 +12,7 @@ Tartu Ülikool<br>
 Pilvepõhiste rakenduste disain ja DevOps (mikrokraad)
 #### 2007-2018
 EEK Mainor<br>
-eriala - "Teenindusjuhtimine" (lõpetamata)
+eriala - "Teenindusjuhtimine" (lõputöö jäi esitamata, eriala suleti)
 #### 1999-2003
 Tallinna Tehnikaülikool<br>
 eriala - "Võrgutarkvara" (lõpetamata)
@@ -63,22 +63,57 @@ IT Koolitus, Implementing and Supporting Windows NT Server 4.0
 #### MLP Dataconsult OÜ
 Devops insener
 ##### Tegevusvaldkonnad
-Rakenduste CI/CD arendamine arendamine ja haldamine (Proxmox, Gitea, Kubernetes, Terraform, Terragrunt, Hashicorp Vault, Loki, Grafana)
+Rakenduste CI/CD arendamine ja haldamine
+* Gitea
+* Kubernetes
+* Terraform
+* Terragrunt
+* Ansible
+* Hashicorp Vault
+* Loki
+* Grafana
+
+Infrastruktuuri haldus
+* Proxmox
+* TrueNAS
+* PAN OS
+* HPE
 
 ### 2025-2026
 #### AS LHV Pank
 DevOps insener
 ##### Tegevusvaldkonnad
-Rakenduste CI/CD arendamine ja haldamine (AWS, S3, Gitlab, Kubernetes, Terraform, Terragrunt, Hashicorp Vault, Ansible, Loki, Grafana).
-Andmebaasidest andmete andmeaita laadimise muudatuste toetamine (MSSQL, DWH)
+* Rakenduste CI/CD arendamine ja haldamine (AWS, S3, Gitlab, Kubernetes, Terraform, Terragrunt, Hashicorp Vault, Ansible, Loki, Grafana)
+* Andmebaasidest andmete andmeaita laadimise muudatuste toetamine (MSSQL, DWH)
 
-### 2015-2025
+### 2014-2025
 #### AS LHV Pank
 süsteemiadministraator
 ##### Tegevusvaldkonnad
-Tulemüüride ja võrguseadmete haldamine, Linuxi ja Windowsi serverite haldamine. Väliste süsteemide autentimisteenuste (SAML/OIDC) seadistamine ja haldamine. Võrguseadmete konfiguratsioonihaldus (Ansible, Terraform, Gitlab). Võrgutiimi hallatavate süsteemide monitooringu ja seire haldus (Zabbix, SpectX, Gravwell).
+###### Võrgu haldus ja turvalisus
+* Tulemüüride ja võrguseadmete (PAN OS, Aruba, HPE) haldamine
+* Sisevõrgu ja perimeetri turvapoliitikate ja võrguligipääsude haldamine
+* VPN-ide haldamine (PAN OS, Juniper SRX, GlobalProtect VPN, IPSEC)
+* PAN OS User-ID kasutajate identiteedi integratsioonide disain ja haldamine
+* Azure virtuaalse võrgu disain ja haldamine (PAN OS VM series tulemüürid, IPSEC)
+* Võrguseadmete konfiguratsioonihaldus (Ansible, Terraform, Gitlab)
+* Linuxi ja Windowsi serverite haldamine Hyper-V virtualiseerimisplatvormi klastrites
+* Võrgutiimi hallatavate süsteemide ja seadmete monitooringu ja logide seire haldus (Zabbix, SpectX, Gravwell)
+###### Turvasertifikaatide ja identiteedi haldus
+* Ettevõtte mitmetasemelise CA (certificate authority) infrastruktuuri haldus
+* kasutajate, teenuste ja lühiajaliste seadmesertifikaatide väljastamise ja tühistamise protseduuride loomine
+* HSM protseduuride kirjeldamine ja POC internetipanga kontoväljavõtete digiallkirjastamiseks
+* HSM X-Tee turvasertifikaatide uuendamise korraldamine (väline partner)
+* SK digiallkirjastamise ja krüptosertifikaatide ning USB tokenite haldus
+* Töötajate smartcardide ja USB tokenite haldus ning sertifikaatide väljastamise protseduuride disain ja dokumenteerimine
+* Väliste süsteemide autentimisvoogude (SAML/OIDC) seadistamine ja haldamine
+###### macOS tööjaamade turvapoliitika ja autentimine
+* MS Intune MDM profiilide disain ja rakendamine
+* MS Intune > Jamf Pro migratsiooni toetamine (50+ seadet)
+* macOS keskse turvapoliitika disain ja rakendamine (CIS Level 2, Jamf Pro, Blueprints)
+* macOS keskse autentimise disain ja seadistamine (Jamf Connect, OIDC, Kerberos, Active Directory, Entra ID)
 
-### 2006-2015
+### 2006-2014
 #### Teede Tehnokeskus AS, IT Projektijuht
 ##### Tegevusvaldkonnad
 Ettevõtte IT arendamise ja halduse organiseerimine ning toimimise tagamine<br>
@@ -218,12 +253,12 @@ Realiseerimiseks kasutatud tarkvara:
 * MySQL
 
 ### 2002
-#### Rahvusraamatukogu kaadriarvestus (v2)
+#### Rahvusraamatukogu kaadriarvestus (v2.0)
 Realiseerimiseks kasutatud tarkvara:
 * PHP
 * MySQL
 
-#### TV Kavad (offline)
+#### TV Kavad
 Realiseerimiseks kasutatud tarkvara:
 * PHP
 * MySQL
@@ -235,7 +270,7 @@ Realiseerimiseks kasutatud tarkvara:
 * MySQL
 
 #### Hinnavaatlus
-kujunduse sidumine koodiga, andmemudel, veebipõhine haldusmoodul
+kujunduse sidumine koodiga, andmemudel, veebipõhine haldusmoodul<br>
 Realiseerimiseks kasutatud tarkvara:
 * PHP
 * Javascript
@@ -266,8 +301,11 @@ Realiseerimiseks kasutatud tarkvara:
 
 ## Huvialad
 * reisimine
-* ujumine
+* teater
+* kino
+* kirjandus
 * fotograafia
+* sörk/kõnd
+* ujumine
 * jalgrattasport
 * tarkvaraarendus
-* filmid
