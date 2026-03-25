@@ -59,26 +59,6 @@ IT Koolitus, Implementing and Supporting Windows NT Server 4.0
 
 ## Eelnevad töökohad
 
-### 2026-...
-#### MLP Dataconsult OÜ
-Devops insener
-##### Tegevusvaldkonnad
-Rakenduste CI/CD arendamine ja haldamine
-* Gitea
-* Kubernetes
-* Terraform
-* Terragrunt
-* Ansible
-* Hashicorp Vault
-* Loki
-* Grafana
-
-Infrastruktuuri haldus
-* Proxmox
-* TrueNAS
-* PAN OS
-* HPE
-
 ### 2025-2026
 #### AS LHV Pank
 DevOps insener
@@ -158,18 +138,42 @@ Tarkvaraarendus, prototüüpimine ja kaardistamine
 Konsultatsioonid
 * Riistvara
 * Tarkvara
+* Arvutivõrgud
+* Tulemüürid
+* Pilvetehnoloogiad
+* AI/ML mudelite rakendamine
 
-Administreerimine
+Infrastruktuuri haldus
 * Linux
 * Windows
 * Võrguseadmed
+* Proxmox
+* Talos
+* TrueNAS
+* PAN OS
+* HPE
 
 Tarkvaraarendus
 * PHP
 * Python
 * C#
+* C/C++ (MISRA)
 * Java/Android
-* SQL (MySQL, PostgreSQL, MSSQL)
+* Swift (iOS/iPadOS/macOS)
+
+Andmebaasid
+* SQL (MySQL, PostgreSQL, MSSQL, DuckDB, ClickHouse, SQLite)
+* S3
+
+Rakenduste CI/CD arendamine ja haldamine
+* Gitea/Gitlab/Github
+* Kubernetes
+* Terraform
+* Terragrunt
+* Ansible
+* Hashicorp Vault
+* Loki
+* Grafana
 
 ### 2000-2005
 #### Freelance konsultant (füüsilisest isikust ettevõtja)
@@ -195,6 +199,24 @@ Töökohustused:<br>
 Tööülesanded hõlmasid Progressi andmebaaside administreerimist, majandustarkvara ning firmas loodud ning arendatavate infosüsteemide tehnilist hooldust ning klientidele installeerimist. Hiljem tuli tegemist teha ka Windows NT serveri, Exchange Serveri ning Windows 95 töökohaarvutite administreerimise ning töökohtade ja serverite riistvara hooldusega.
 
 ## Tarkvaraarendus
+
+### 2018-2023 Openpilot (Subaru kogukonna haldur)
+Openpilot on comma.ai arendatav avatud lähtekoodiga juhiabi süsteem (ADAS) mis toetab 300+ erinevat automudelit ja töötab comma.ai arendataval riistvaraplatvormil<br>
+Lisaks openpiloti tarkvara ja riistvara liideste arendamisele erinevatele Subaru mudelitele tegelesin koos teiste openpilot Subaru kogukonna liikmetega 200+ kasutaja riistvara ja tarkvara kaugtoe ning kogukonna haldamisega comma.ai Discordi #Subaru kanalis.
+
+Võtmesõnad
+* Git
+* Github CI/CD
+* Ubuntu (arm64)
+* Python
+* pytest
+* C/C++ (MISRA)
+* CANBUS
+* DBC
+* OpenDBC
+* CANBUS messages and signals reverse engineering
+
+
 ### 2013
 #### Teeilmajaamade veebi prototüüp
 Realiseerimiseks kasutatud tarkvara:
