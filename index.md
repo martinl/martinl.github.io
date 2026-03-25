@@ -83,7 +83,7 @@ Infrastruktuuri haldus
 #### AS LHV Pank
 DevOps insener
 ##### Tegevusvaldkonnad
-Rakenduste CI/CD arendamine ja haldamine
+Rakenduste CI/CD voogude arendamine ja haldamine
 * AWS
 * S3
 * Gitlab
@@ -103,7 +103,8 @@ Andmebaasidest andmete andmeaita laadimise muudatuste toetamine
 #### AS LHV Pank
 süsteemiadministraator
 ##### Tegevusvaldkonnad
-###### Võrgu haldus ja turvalisus
+
+Võrgu haldus ja turvalisus
 * Tulemüüride ja võrguseadmete (PAN OS, Aruba, HPE) haldamine
 * Sisevõrgu ja perimeetri turvapoliitikate ja võrguligipääsude haldamine
 * VPN-ide haldamine (PAN OS, Juniper SRX, GlobalProtect VPN, IPSEC)
@@ -112,7 +113,8 @@ süsteemiadministraator
 * Võrguseadmete konfiguratsioonihaldus (Ansible, Terraform, Gitlab)
 * Linuxi ja Windowsi serverite haldamine Hyper-V virtualiseerimisplatvormi klastrites
 * Võrgutiimi hallatavate süsteemide ja seadmete monitooringu ja logide seire haldus (Zabbix, SpectX, Gravwell)
-###### Turvasertifikaatide ja identiteedi haldus
+
+Turvasertifikaatide ja identiteedi haldus
 * Ettevõtte mitmetasemelise CA (certificate authority) infrastruktuuri haldus
 * kasutajate, teenuste ja lühiajaliste seadmesertifikaatide väljastamise ja tühistamise protseduuride loomine
 * HSM protseduuride kirjeldamine ja POC internetipanga kontoväljavõtete digiallkirjastamiseks
@@ -120,7 +122,8 @@ süsteemiadministraator
 * SK digiallkirjastamise ja krüptosertifikaatide ning USB tokenite haldus
 * Töötajate smartcardide ja USB tokenite haldus ning sertifikaatide väljastamise protseduuride disain ja dokumenteerimine
 * Väliste süsteemide autentimisvoogude (SAML/OIDC) seadistamine ja haldamine
-###### macOS tööjaamade turvapoliitika ja autentimine
+
+macOS tööjaamade turvapoliitika ja autentimine
 * MS Intune MDM profiilide disain ja rakendamine
 * MS Intune > Jamf Pro migratsiooni toetamine (50+ seadet)
 * macOS keskse turvapoliitika disain ja rakendamine (CIS Level 2, Jamf Pro, Blueprints)
