@@ -115,12 +115,11 @@ Võrgu haldus ja turvalisus
 * Võrgutiimi hallatavate süsteemide ja seadmete monitooringu ja logide seire haldus (Zabbix, SpectX, Gravwell)
 
 Turvasertifikaatide ja identiteedi haldus
-* Ettevõtte mitmetasemelise CA (certificate authority) infrastruktuuri haldus
-* kasutajate, teenuste ja lühiajaliste seadmesertifikaatide väljastamise ja tühistamise protseduuride loomine
+* Ettevõtte mitmetasemelise CA (certificate authority) infrastruktuuri haldus (AD CS, Digicert One)
+* Kasutajate, teenuste ja lühiajaliste seadmesertifikaatide elütsükli protseduuride loomine
 * HSM protseduuride kirjeldamine ja POC internetipanga kontoväljavõtete digiallkirjastamiseks
 * HSM X-Tee turvasertifikaatide uuendamise korraldamine (väline partner)
 * SK digiallkirjastamise ja krüptosertifikaatide ning USB tokenite haldus
-* Töötajate smartcardide ja USB tokenite haldus ning sertifikaatide väljastamise protseduuride disain ja dokumenteerimine
 * Väliste süsteemide autentimisvoogude (SAML/OIDC) seadistamine ja haldamine
 
 macOS tööjaamade turvapoliitika ja autentimine
