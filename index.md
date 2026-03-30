@@ -1,5 +1,11 @@
 # CV
 
+### Kokkuvõte
+
+Seenior DevOps- ja võrguturbe insener. 25+ aastat kogemust suuremahulise taristu projekteerimisel, turvamisel ja opereerimisel panganduse, avaliku sektori ja erasektori konsultatsioonide valdkonnas. Põhjalikud teadmised võrguturbe osas — tulemüüride haldus ja turvapoliitikate disain (Palo Alto Networks PAN-OS, Juniper SRX), VPN arhitektuur (GlobalProtect, IPsec), Zero Trust võrgutaristu (PAN GlobalProtect, User-ID, Forescout, Packetfence), PKI/sertifikaadihaldus (AD CS, DigiCert, HSM) ja Azure virtuaalvõrgu disain — ühendatuna praktilise DevOps-kogemusega - Kubernetes, Terraform, AWS ja CI/CD pipeline. Kümneaastane töökogemus LHV Pangas ning iseseisevas konsultatsiooniettevõttes MLP Dataconsult OÜ alates 2002. aastast. Tõestatud võime nõustada organisatsioone võrguturbe, pilveplatvormide ja taristu automatiseerimise küsimustes reguleeritud valdkondades. Kogemused multidistsiplinaarsetes inseneeria meeskondades ja väliste partneritega koos töötamisel.
+
+---
+
 ## Isikuandmed
 Martin Lillepuu<br>
 17.09.1978<br>
@@ -59,6 +65,19 @@ IT Koolitus, Implementing and Supporting Windows NT Server 4.0
 
 ## Eelnevad töökohad
 
+### 2025-...
+#### Muuga kogukonnakeskus Muuker MTÜ
+Asutajaliige, juhatuse liige
+##### Tegevusvaldkonnad
+* Kogukonnakeskuse asutamine ja arendamine (registreeritud september 2025)
+* IT taristu loomine ja haldamine
+  * Domeeni muuker.ee registreerimine
+  * Google Workspace for Nonprofits konto seadistamine
+  * Veebisaidi loomine ja haldamine (Google Sites)
+  * Facebooki lehe loomine ja haldamine
+* Turundus ja kommunikatsioon
+* Foto ja video
+
 ### 2025-2026
 #### AS LHV Pank
 DevOps insener
@@ -89,6 +108,7 @@ Võrgu haldus ja turvalisus
 * Sisevõrgu ja perimeetri turvapoliitikate ja võrguligipääsude haldamine
 * VPN-ide haldamine (PAN OS, Juniper SRX, GlobalProtect VPN, IPSEC)
 * PAN OS User-ID kasutajate identiteedi integratsioonide disain ja haldamine
+* NAC haldamine (Forescout, Packetfence, 802.1x, EAP-TLS)
 * Azure virtuaalse võrgu disain ja haldamine (PAN OS VM series tulemüürid, IPSEC)
 * Võrguseadmete konfiguratsioonihaldus (Ansible, Terraform, Gitlab)
 * Linuxi ja Windowsi serverite haldamine Hyper-V virtualiseerimisplatvormi klastrites

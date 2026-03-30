@@ -2,7 +2,7 @@
 
 ### Summary
 
-Senior DevOps & Network Security Engineer with 25+ years of experience designing, securing, and operating large-scale infrastructure across banking, public sector, and private consulting. Deep expertise in network security — firewall management and policy design (Palo Alto PAN-OS, Juniper SRX), VPN architectures (GlobalProtect, IPsec), zero-trust network access, PKI/certificate infrastructure (AD CS, DigiCert, HSM), and Azure virtual network design — combined with hands-on DevOps practice in Kubernetes, Terraform, AWS, and CI/CD pipelines. Built across a decade at LHV Pank and sustained independent consulting through MLP Dataconsult since 2002. Proven ability to own security architecture and delivery pipelines end-to-end, from perimeter policy to identity-aware access control (SAML/OIDC, Entra ID), and advise organizations on network security posture, cloud connectivity, and infrastructure automation in regulated environments. Experienced collaborating within large cross-functional engineering teams.
+Senior DevOps & Network Security Engineer with 25+ years of experience designing, securing, and operating large-scale infrastructure across banking, public sector, and private consulting. Deep expertise in network security — firewall management and policy design (Palo Alto Networks PAN-OS, Juniper SRX), VPN architectures (GlobalProtect, IPsec), Zero Trust network infrastructure (PAN GlobalProtect, User-ID, Forescout, Packetfence), PKI/certificate infrastructure (AD CS, DigiCert, HSM), and Azure virtual network design — combined with hands-on DevOps practice in Kubernetes, Terraform, AWS, and CI/CD pipelines. A decade of experience at LHV Pank and independent consulting through MLP Dataconsult OÜ since 2002. Proven ability to advise organisations on network security, cloud platforms, and infrastructure automation in regulated environments. Experienced working in multidisciplinary engineering teams and with external partners.
 
 ---
 
@@ -43,23 +43,28 @@ Senior DevOps & Network Security Engineer with 25+ years of experience designing
 ---
 
 ### Work Experience
+**2025–Present: Muuga kogukonnakeskus Muuker MTÜ – Founder & Board Member**
+* Co-founded community centre for the Muuga suburban area (registered September 2025).
+* IT infrastructure: domain registration (muuker.ee), Google Workspace for Nonprofits setup, website creation and management (Google Sites), Facebook page creation and management.
+* Marketing, communications, videography and photography.
+
 **2025–2026: AS LHV Pank – DevOps Engineer**
 * Development and management of CI/CD pipelines.
 * *Tech stack:* AWS S3, Gitlab, Terraform, Terragrunt, Kubernetes, Hashicorp Vault, Ansible, Loki, Grafana.
 * Supporting changes for loading data into the data warehouse (MSSQL DWH).
 
 **2014–2025: AS LHV Pank – System Administrator**
-* **Network Management & Security:** Managing firewalls and network devices (PAN OS, Aruba, HPE); internal and perimeter security policies; VPN management (GlobalProtect, IPSEC, Juniper SRX); Azure virtual network design (PAN OS VM series).
+* **Network Management & Security:** Managing firewalls and network devices (PAN OS, Aruba, HPE); internal and perimeter security policies; VPN management (PAN OS, Juniper SRX, GlobalProtect, IPSEC); PAN OS User-ID identity integration design and management; NAC management (Forescout, Packetfence, 802.1x, EAP-TLS); Azure virtual network design (PAN OS VM series).
 * **Network device configuration management** (Ansible, Terraform, Gitlab).
 * **Server management:** Linux and Windows servers in Hyper-V virtualisation platform clusters.
 * **Monitoring:** Managing monitoring and logs for network systems (Zabbix, SpectX, Gravwell).
-* **Identity & Certificate Management:** Managing multi-tier Corporate CA infrastructure (AD CS, Digicert One); HSM procedures for digital signing; external authentication flows (SAML/OIDC).
-* **macOS Security:** Designing and implementing MS Intune MDM profiles; migration from Intune to Jamf Pro; central authentication design (Jamf Connect, Entra ID).
+* **Identity & Certificate Management:** Managing multi-tier Corporate CA infrastructure (AD CS, Digicert One); certificate lifecycle procedures for users, services, and short-lived device certificates; HSM procedures and POC for digital signing of bank account statements; X-Road HSM certificate renewal coordination (external partner); SK digital signing, crypto certificates, and USB token management; external authentication flows (SAML/OIDC).
+* **macOS Security:** Designing and implementing MS Intune MDM profiles; migration from MS Intune to Jamf Pro (50+ devices); central security policy design and implementation (CIS Level 2, Jamf Pro, Blueprints); central authentication design (Jamf Connect, OIDC, Kerberos, Active Directory, Entra ID).
 
 **2006–2014: Teede Tehnokeskus AS (Estonian Road Technology Center) – IT Project Manager**
 * Organizing IT development and maintenance.
 * Software development, prototyping, and systems mapping.
-* *Keywords:* Windows Server, Linux (Debian, OpenSUSE), VMware vSphere, MSSQL, MS Dynamics NAV, Veeam.
+* *Keywords:* Windows XP/7/8, Windows Server 2003/2008/2012, Linux (OpenSUSE, Debian), OpenVPN, IPSEC, IKEv2, VMware vSphere, MySQL, MSSQL, MS Dynamics NAV, MS SCCM, MS DPM, MS Hyper-V, Veeam B&R, Dell, Apple, Android.
 
 **2002–Present: MLP Dataconsult OÜ – Consultant**
 * **Consulting:** Hardware, software, networks, firewalls, cloud technologies, AI/ML implementation.
@@ -82,10 +87,10 @@ Senior DevOps & Network Security Engineer with 25+ years of experience designing
 ---
 
 ### Software Development Projects
-* **2018–2023: Openpilot (Subaru Community Manager):** Development of open-source ADAS (Advanced Driver Assistance System) interfaces for Subaru models; community support for 200+ users via Discord.
-* **2013: Road Weather Station Web Prototype:** PHP, MySQL, OpenLayers.
-* **2013: Road Defect Detection System:** "RoadRecorder" (video/GPS data), "RoadAnalyzer" (defect classification via video), "RoadViewer" (GIS visualization). Built with C# (.NET), DirectX, SQLite.
-* **2013: Road Friction Measurement System:** Mobile app + hardware device via Bluetooth (Android/Java).
+* **2018–2023: Openpilot (Subaru Community Manager):** Development of open-source ADAS (Advanced Driver Assistance System) software and hardware interfaces for Subaru models on comma.ai hardware (300+ supported car models); remote support and community management for 200+ users via comma.ai Discord #Subaru channel. *Keywords:* Git, Github CI/CD, Ubuntu (arm64), Python, pytest, C/C++ (MISRA), CANBUS, DBC, OpenDBC, CANBUS messages and signals reverse engineering.
+* **2013: Road Weather Station Web Prototype:** PHP, MySQL, Javascript, ExtJS, OpenLayers, OpenStreetMap.
+* **2013: Road Defect Detection System:** "RoadRecorder" (video and road location data), "RoadAnalyzer" (defect classification from video, photo generation), "RoadViewer" (end-user GIS visualization). Built with C# (.NET), DirectX, WDM, SQLite + SpatiaLite, Bluetooth, GPS.
+* **2013: Road Friction Measurement System:** Mobile app + hardware measurement device; web interface. Android/Java, Bluetooth, MySQL, PHP, Javascript, JSON, OpenLayers, OpenStreetMap.
 * **2012: Road Frost Depth Sensors Web Interface:** PHP, Google Maps.
 * **2010: OpenVPN ID-Card Authentication Integration:** Perl, Bash, OpenSSL.
 * **2009: Road Traffic Counting System Analysis:** Data model design; data source integration design.
@@ -94,7 +99,7 @@ Senior DevOps & Network Security Engineer with 25+ years of experience designing
 * **2002: National Library of Estonia – HR System v2.0:** PHP, MySQL.
 * **2002: TV Guide:** PHP, MySQL.
 * **2001: National Library of Estonia – HR System:** Zope, MySQL.
-* **2001: Hinnavaatlus:** Design-to-code integration, data model, and web management module (PHP, MySQL).
+* **2001: Hinnavaatlus:** Design-to-code integration, data model, and web management module (PHP, Javascript, MySQL).
 * **2000: Web-based Chat Server + Client:** Java (JDK 1.2), Tomcat 3.1.
 * **1999: SpinTEK Intranet:** PHP, MySQL, Apache.
 
