@@ -50,6 +50,8 @@ Senior DevOps & Network Security Engineer with 25+ years of experience designing
 
 **2014–2025: AS LHV Pank – System Administrator**
 * **Network Management & Security:** Managing firewalls and network devices (PAN OS, Aruba, HPE); internal and perimeter security policies; VPN management (GlobalProtect, IPSEC, Juniper SRX); Azure virtual network design (PAN OS VM series).
+* **Network device configuration management** (Ansible, Terraform, Gitlab).
+* **Server management:** Linux and Windows servers in Hyper-V virtualisation platform clusters.
 * **Monitoring:** Managing monitoring and logs for network systems (Zabbix, SpectX, Gravwell).
 * **Identity & Certificate Management:** Managing multi-tier Corporate CA infrastructure (AD CS, Digicert One); HSM procedures for digital signing; external authentication flows (SAML/OIDC).
 * **macOS Security:** Designing and implementing MS Intune MDM profiles; migration from Intune to Jamf Pro; central authentication design (Jamf Connect, Entra ID).
@@ -64,6 +66,7 @@ Senior DevOps & Network Security Engineer with 25+ years of experience designing
 * **Infrastructure:** Linux, Windows, Proxmox, Talos, TrueNAS, PAN OS.
 * **Software Development:** PHP, Python, C#, C/C++ (MISRA), Java/Android, Swift.
 * **Databases:** SQL (MySQL, PostgreSQL, MSSQL, DuckDB, ClickHouse, SQLite), S3.
+* **CI/CD:** Gitea/Gitlab/Github, Kubernetes, Terraform, Terragrunt, Ansible, Hashicorp Vault, Loki, Grafana.
 
 **2000–2005: Freelance Consultant (Sole Proprietor)**
 
@@ -85,7 +88,15 @@ Senior DevOps & Network Security Engineer with 25+ years of experience designing
 * **2013: Road Friction Measurement System:** Mobile app + hardware device via Bluetooth (Android/Java).
 * **2012: Road Frost Depth Sensors Web Interface:** PHP, Google Maps.
 * **2010: OpenVPN ID-Card Authentication Integration:** Perl, Bash, OpenSSL.
+* **2009: Road Traffic Counting System Analysis:** Data model design; data source integration design.
+* **2007: Teede Tehnokeskus AS – Business Analysis:** PHP, SQLBase, MSSQL, Excel, Access.
+* **2005: Teede Tehnokeskus AS – Bridge Register:** PHP, MySQL.
+* **2002: National Library of Estonia – HR System v2.0:** PHP, MySQL.
+* **2002: TV Guide:** PHP, MySQL.
+* **2001: National Library of Estonia – HR System:** Zope, MySQL.
 * **2001: Hinnavaatlus:** Design-to-code integration, data model, and web management module (PHP, MySQL).
+* **2000: Web-based Chat Server + Client:** Java (JDK 1.2), Tomcat 3.1.
+* **1999: SpinTEK Intranet:** PHP, MySQL, Apache.
 
 ---
 
